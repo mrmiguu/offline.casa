@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "postcss-modules": "^1.4.1"
+    "postcss-modules": "^1.5.0"
   }
 }
